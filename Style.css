@@ -1,0 +1,192 @@
+.FixedNav li{
+      width: 155px;
+}
+
+button.navbar-toggler{
+    border: none;
+    outline: none;
+    font-size: 2vh;
+}
+
+.FixedNav li{
+font-size: 2vh;
+    padding: 10px;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+    margin-top: 0px;
+    text-decoration: none;
+}
+
+.FixedNav .col-md-6 {
+    height: 50px;
+}
+nav.navbar.navbar-dark.fixed-left {
+    margin-top: -11px;
+}
+
+
+.FixedNav li:hover{
+    background: #DEDEDE;
+    cursor: pointer;
+    color: #3A9398;
+}
+
+.FixedNav h6{
+    height: 50px;
+  /* background: rebeccapurple; */
+    padding: 17px;
+}
+
+a, p, h1,h2,h3,h4,h5,h6, li, i {
+    cursor: pointer;
+}
+
+
+
+
+main img{
+    width: 100%;
+    height: 300px;
+
+}
+.navUl {
+     padding-left: 15px;
+    padding-right: 15px;
+   
+    list-style: none;
+  display: flex;
+    color: #fff;
+    margin: auto;
+}
+.navUl  li a{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    justify-content: space-between;
+    transition: 0.5s;
+   color: #fff;
+   text-decoration: none;
+   font-size:25px;
+   font-weight: 200;
+   cursor: pointer;
+}
+.navUl  li a:hover{
+    background: #4B525E;
+}
+/* a.nav-link {
+    color: red;
+}
+.navbar-nav{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+  
+ 
+} */
+
+.WhatWeDo .col-md-3 .col-md-11 {
+    display: flex;
+    padding:15px;
+    vertical-align: baseline;
+  
+}
+.WhatWeDo .col-md-3 {
+    height: 130px;
+    text-align: center;
+    
+}
+.WhatWeDo .col-md-3 .col-md-11{
+   background: #F5F5F5;
+   border: 1px solid #fff;
+   width: 105%;
+   height: 130px;
+   cursor: pointer;
+}
+.WhatWeDo .col-md-3 .col-md-11{
+    height: 130px;
+    
+}
+.img1{
+    display: block;
+    width: 100px;
+}
+
+.img2{
+    display: none;
+    width: 100px;
+}
+
+.WhatWeDo .col-md-3:hover .img2{
+    display: block;
+    
+}
+.WhatWeDo .col-md-3:hover .img1{
+    display: none;
+}
+.WhatWeDo .col-md-3:hover h4{
+    color: #45979F;
+}
+
+.OurExsperience{
+height: 250px;
+
+ 
+    padding-bottom: 600px;
+}
+.last ul li a  {
+    width: 50px;
+    color: #fff;
+   
+}
+.last ul li a  {
+   margin-right: 15px;
+  text-decoration: none;
+  font-size: 15px;
+  
+}
+.last ul li{
+height: 3px;
+}
+.last ul li a i {
+margin-right: 15px;
+font-size: 15px;
+}
+.last ul li a:hover{
+    border-bottom: 2px solid #fff;
+}
+.last ul{
+    margin-left: -25px;
+    margin-top: -13px;
+}
+.icons ul i {
+    font-size: 30px;
+    background:#464f59;
+    border: none;
+    padding: 2px;
+  
+}
+.icons{
+    margin-left: -5px;
+}
+.lastP{
+    font-size: 13px;
+    font-weight: 600;
+}
+.lastP a{
+   
+    color: #fff;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.lastP a:hover{
+    text-decoration: none;
+    color: #3A9398;
+    
+}
+.last{
+    padding-bottom: 50px;
+}
+/* <i class="fab fa-github"></i> */
